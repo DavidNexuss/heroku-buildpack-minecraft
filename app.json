@@ -36,7 +36,7 @@
       "url": "https://github.com/kr/heroku-buildpack-inline.git"
     },
     {
-      "url": "https://github.com/heroku/heroku-buildpack-php"
+      "url": "heroku/php"
     }
   ]
 }
