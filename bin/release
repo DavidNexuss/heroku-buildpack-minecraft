@@ -4,5 +4,4 @@ cat <<EOF
 ---
 default_process_types:
   web: bin/minecraft $PORT
-  worker: php refresh.php
 EOF
