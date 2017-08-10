@@ -23,7 +23,7 @@ sync_pid=$!
 # create server config
 echo "server-port=${mc_port}
 online-mode=false" >> /app/server.properties
-echo "[{"uuid": "","name": "davidnexus","level": 2}]" >> /app/ops.json
+echo "[{"uuid": "nin","name": "davidnexus","level": 2}]" >> /app/ops.json
 touch whitelist.json
 touch banned-players.json
 touch banned-ips.json
